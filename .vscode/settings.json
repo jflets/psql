@@ -10,5 +10,9 @@
             "username": "postgres",
             "password": "Terminator-965"
         }
-    ]
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
 }
